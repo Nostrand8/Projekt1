@@ -1,0 +1,152 @@
+.Naslovna {
+    display:flex;
+    justify-content: space-between;
+    padding:16px 70px
+    }
+.kontejner {
+    background-color: #165bba;
+}
+.logotip {
+    display: flex;
+    font-size: 24px;
+    font-weight: 900;
+    color: #f9faf8;
+    padding:32px 0px;
+}
+.poveznice {
+    display:flex;
+    align-items: center;
+    gap:16px;
+}
+.kontejner1 {
+    display:flex;
+    justify-content: space-around;
+    gap:50px;
+    padding:8px 70px;
+}
+.podnaslov {
+    display:flex;
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    }
+.text {
+    font-size: 18px;
+    color:#e5e7eb;
+    display: flex;
+    }
+button {
+    font-family: Roboto, sans-serif;
+    color: rgb(133, 178, 44);
+    border: none;
+    border-radius: 8px;
+    background: #00010289;
+    padding: 8px 16px;
+    margin:16px 0;
+}
+.placeholder {
+    display:flex;
+    box-shadow: 0 0 20px 0 #eee;
+    background-color: rgb(122, 88, 88);
+    align-items: center;
+    justify-items: center;
+    flex-shrink: 0;
+}    
+a {
+    display: :flex;
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size:18px;
+}
+
+.kontejner3 {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding:32px;
+}
+.header1 {
+    font-weight: 800;
+    color:#1f2937;
+    font-size: 36px;
+    text-align: center;
+    padding:32px;
+}
+.slikovnitekst {
+    display: flex;
+    justify-content: space-around;
+     }
+.okviri {
+    display: flex;
+    border: 4px solid #38f658;
+    border-radius: 8px;
+    width: 60px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    }
+p {
+    display: flex;
+    justify-content: space-around;
+    
+    }
+.kont_teksta{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 60px;
+}
+.text1 {
+    font-size: 36px;
+    font-style:italic;
+    color: #1f2937;
+    font-weight: 200;
+}
+.kontejner5 {
+    background-color: #79b22f;
+    padding:40px;
+
+}
+.kontejner6 {
+    margin:80px;
+    background-color: #f66138;
+    border-radius: 8px;
+    padding:60px;
+    color:white;
+    display:flex;
+    justify-content: space-around;
+}
+.kontejner7 {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:40px;
+    font-size: 18px;
+
+}
+.kont_61 {
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+    font-weight: 800;
+    gap:12px;
+
+}
+.kont_62 {
+    font-size: 16px;
+    font-weight: 400;
+    color: antiquewhite;
+}
+.gumb2 {
+    color:white;
+    border: 2px solid white;
+    margin: 16px;
+    }
+    span {
+        font-weight: 900;
+        color: black;
+        font-size: 24px;
+        display: flex;
+        justify-content:flex-end;
+    }
